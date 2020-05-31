@@ -1,0 +1,25 @@
+{
+  "name": "journeybuilder-custom-activity",
+  "version": "1.0.0",
+  "description": "exemplo de atividade customizada para o Journey Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siclaudio/marketingcloud-custom-activity.git"
+  },
+  "keywords": [
+    "Marketing",
+    "Cloud",
+    "Journey",
+    "Builder"
+  ],
+  "author": "Siclaudio Borges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siclaudio/marketingcloud-custom-activity/issues"
+  },
+  "homepage": "https://github.com/siclaudio/marketingcloud-custom-activity#readme"
+}
